@@ -7,7 +7,7 @@ import com.sofka.mensajeria.data.Body;
 import com.sofka.mensajeria.data.Notification;
 import com.sofka.mensajeria.email.model.Cuerpo;
 import com.sofka.mensajeria.email.services.EmailService;
-import com.sofka.mensajeria.email.services.EmailServiceImpl;
+
 import com.sofka.mensajeria.serializer.JSONMapper;
 import com.sofka.mensajeria.serializer.JSONMapperImpl;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
